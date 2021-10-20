@@ -1,4 +1,4 @@
-# Microsoft Outlook - AutomaticTravelTime
+# Microsoft Outlook - Automatic Travel Time
 Automatic travel time in your Office 365 calendar.
 
 ## General
