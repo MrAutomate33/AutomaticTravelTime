@@ -21,3 +21,6 @@ _The flow won't be triggerd for Microsoft Teams meetings._
 5. Set your home location in `StartLocation`.
 6. Save.
 7. Don't forget to turn on the Power automate flow.
+
+## Disclaimer
+*This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.*
